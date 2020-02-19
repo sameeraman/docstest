@@ -3,4 +3,5 @@ repo_url: https://github.com/sameeraman/docstest
 nav:
     - Home: index.md
     - About: page1.md
-theme: readthedocs
+theme:
+  name: 'material'
